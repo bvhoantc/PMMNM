@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62ea3e28f6f726021cc71f2d"
+  },
+  "id": 53,
+  "name": "asa",
+  "email": "a@gmail.com",
+  "phone": "q1212",
+  "msg": "121212",
+  "total": 131400,
+  "status": 2,
+  "ship": "12121",
+  "payment": "ATM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 131400,
+      "quantity": 1,
+      "item": {
+        "sale1": 10,
+        "__v": 0,
+        "photo": "1659364617671_MK7244.jpg",
+        "salePrice": 131400,
+        "isDeleted": false,
+        "sale": 10,
+        "price": 146000,
+        "description": "Đồng hồ kim Nữ dây da Michael Kors MK2966 Hồng hàng chính hãng, mẫu mã đẹp, thiết kế thời trang, giao hàng tận nơi tại Vietnam Watchshop. Mua Đồng Hồ và Trang Sức Nam Nữ Chính Hãng tại Vietnam Watchshop",
+        "categoryId": 8,
+        "urlRewriteName": "dong-ho-nam-fossil-me3171-xanh-duong",
+        "name": "Đồng hồ Nam Fossil ME3171 Xanh dương",
+        "id": 105,
+        "_id": "6079a3ffc2c96719708b477b"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ea41f26d03710b24aa257b"
+  },
+  "id": 54,
+  "name": "dong",
+  "email": "dong@gmail.com",
+  "phone": "123",
+  "msg": "123",
+  "total": 525600,
+  "status": 1,
+  "ship": "123",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 262800,
+      "quantity": "2",
+      "item": {
+        "sale1": 10,
+        "__v": 0,
+        "photo": "1659364617671_MK7244.jpg",
+        "salePrice": 131400,
+        "isDeleted": false,
+        "sale": 10,
+        "price": 146000,
+        "description": "Đồng hồ kim Nữ dây da Michael Kors MK2966 Hồng hàng chính hãng, mẫu mã đẹp, thiết kế thời trang, giao hàng tận nơi tại Vietnam Watchshop. Mua Đồng Hồ và Trang Sức Nam Nữ Chính Hãng tại Vietnam Watchshop",
+        "categoryId": 8,
+        "urlRewriteName": "dong-ho-nam-fossil-me3171-xanh-duong",
+        "name": "Đồng hồ Nam Fossil ME3171 Xanh dương",
+        "id": 105,
+        "_id": "6079a3ffc2c96719708b477b"
+      }
+    }
+  ],
+  "__v": 0
+}]
